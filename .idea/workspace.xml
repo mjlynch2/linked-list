@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3aa8879f-1486-4e65-9d0c-6e2f34c7a33a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8cErWR7cjDOxsSzqbjD3qAfIO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Gradle.LinkedListTests.test_itDoesNotCrashAfter100RandomOperations">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LinkedListTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTests.test_insertAddsToEmptyList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LinkedListTests.test_insertAddsToEmptyList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTests.test_insertThenRemoveSeveralItemsFromBack" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LinkedListTests.test_insertThenRemoveSeveralItemsFromBack&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTests.test_insertThenRemoveSeveralItemsFromFront" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LinkedListTests.test_insertThenRemoveSeveralItemsFromFront&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTests.test_itDoesNotCrashAfter100RandomOperations" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;LinkedListTests.test_itDoesNotCrashAfter100RandomOperations&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LinkedListTests.test_itDoesNotCrashAfter100RandomOperations" />
+        <item itemvalue="Gradle.LinkedListTests.test_insertThenRemoveSeveralItemsFromBack" />
+        <item itemvalue="Gradle.LinkedListTests.test_insertThenRemoveSeveralItemsFromFront" />
+        <item itemvalue="Gradle.LinkedListTests.test_insertAddsToEmptyList" />
+        <item itemvalue="Gradle.LinkedListTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa8879f-1486-4e65-9d0c-6e2f34c7a33a" name="Default Changelist" comment="" />
+      <created>1578534553914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578534553914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" width="811" height="669" key="#Project_Structure" timestamp="1579557672168">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="320" y="98" width="811" height="669" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1579557672168" />
+    <state x="477" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579536369866">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="477" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1579536369866" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069454" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069450" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069448" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069452" />
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069460" />
+    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069457" />
+    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1579558223729">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1579558223729" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069455" />
+    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069458" />
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069467" />
+    <state width="1398" height="262" key="GridCell.Tab.2.center" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.center/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069463" />
+    <state width="1398" height="262" key="GridCell.Tab.2.left" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.left/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069462" />
+    <state width="1398" height="262" key="GridCell.Tab.2.right" timestamp="1579558223730">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.right/0.23.1440.819@0.23.1440.819" timestamp="1579558223730" />
+    <state width="1807" height="344" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1578797069465" />
+    <state x="323" y="120" key="SettingsEditor" timestamp="1579546073500">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="323" y="120" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1579546073500" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578534803292" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1579538956688">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1579538956688" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1578796692069">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1578796692069" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedListTests.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MikeLinkedList.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MikeLinkedList.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MikeLinkedList.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedListTests.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LinkedListTests.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
